@@ -43,6 +43,13 @@
 |2|   พัฒนาแอพด้วย Flutter 3.x       | [ดาวน์โหลด](https://mega.nz/folder/bPYEGZiR) |
 |3|   พัฒนาแอพด้วย React Native       | [ดาวน์โหลด](https://mega.nz/folder/bPYEGZiR) |
 
+## Creative Commons licenses | CC BY-NC 
+*©︎ ลิขสิทธิ์โดย __"ก้องรักสยาม"__ เจ้าของเพจ KongRuksiam Studio*
+</br>
+![image](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png)
+- BY : สามารถนำไปใช้ในสื่อการเรียนการสอนได้ โดยระบุแหล่งที่มาของเอกสาร
+- NC : ห้ามนำไปใช้ในเชิงพาณิชย์
+
 ## ☕ ช่องทางการสนับสนุน
 - [🎓 คอร์สเรียนบน Udemy](https://github.com/kongruksiamza/udemy-course)
 - [🛒 ซื้อของผ่าน Shopee](https://shope.ee/3plB9kVnPd)
