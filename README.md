@@ -43,6 +43,12 @@
 |2|   พัฒนาแอพด้วย Flutter 3.x       | [ดาวน์โหลด](https://mega.nz/folder/bPYEGZiR) |
 |3|   พัฒนาแอพด้วย React Native       | [ดาวน์โหลด](https://mega.nz/folder/bPYEGZiR) |
 
+## ถ้ายกเลิกการสมัครสมาชิกแบบต้องดำเนินการอย่างไร ❓
+|ช่องทางการสมัคร|ขั้นตอนการยกเลิกสมาชิก|
+|:----:|:----:|
+|KongRuksiam Tutorial **(ระดับ แฟนตัวยง)**|[ดูรายละเอียด](https://support.google.com/youtube/answer/6304294?hl=th#zippy=%2C%E0%B8%A2%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%9B%E0%B8%99%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%AD%E0%B8%87) |
+|Facebook **(Supporters)**|[ดูรายละเอียด](https://www.facebook.com/help/203354304659155/?helpref=uf_share)|
+
 ## Creative Commons licenses | CC BY-NC 
 *©︎ ลิขสิทธิ์โดย __"ก้องรักสยาม"__ เจ้าของเพจ KongRuksiam Studio*
 </br>
