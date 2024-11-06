@@ -26,7 +26,7 @@
 |3|   Java GUI (Swing)       | [ดาวน์โหลด](https://mega.nz/folder/bPYEGZiR) |
 
 ## 💻 เขียนโปรแกรม (Programming)
-|ไอคอน| หัวข้อ | ดาวน์โหลด |
+|Icon| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
 |![image](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)|   เขียนโปรแกรมภาษา C       | [ดาวน์โหลด](https://mega.nz/folder/bPYEGZiR) |
 |![image](https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg)|   PyQt6 (Python GUI Framework)       | [ดาวน์โหลด](https://mega.nz/folder/bPYEGZiR) |
