@@ -19,14 +19,7 @@
 |Facebook **(Supporters)**|[เข้ารับคีย์ถอดรหัส](https://www.facebook.com/KongRuksiamTutorial/posts/737583595135211)|
 
 ## 💻 เขียนโปรแกรม (Programming)
-|ลำดับที่| หัวข้อ | ดาวน์โหลด |
-|:----:|:------------------------:|:----:|
-|1|   เขียนโปรแกรมภาษา C       | [ดาวน์โหลด](https://mega.nz/folder/bPYEGZiR) |
-|2|   PyQt6 (Python GUI Framework)       | [ดาวน์โหลด](https://mega.nz/folder/bPYEGZiR) |
-|3|   Java GUI (Swing)       | [ดาวน์โหลด](https://mega.nz/folder/bPYEGZiR) |
-
-## 💻 เขียนโปรแกรม (Programming)
-|Icon| หัวข้อ | ดาวน์โหลด |
+|Icons| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
 |![image](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)|   เขียนโปรแกรมภาษา C       | [ดาวน์โหลด](https://mega.nz/folder/bPYEGZiR) |
 |![image](https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg)|   PyQt6 (Python GUI Framework)       | [ดาวน์โหลด](https://mega.nz/folder/bPYEGZiR) |
