@@ -32,7 +32,7 @@
 |![image](https://skillicons.dev/icons?i=qt)|   PyQt6 (Python GUI Framework)       | [ดาวน์โหลด](https://mega.nz/folder/bPYEGZiR) |
 |![image](https://skillicons.dev/icons?i=java)|   Java GUI (Swing)       | [ดาวน์โหลด](https://mega.nz/folder/bPYEGZiR) |
 
-## 🚀 พัฒนาเว็บแอพพลิเคชั่น (Web Development)
+## 🎓 พัฒนาเว็บแอพพลิเคชั่น (Web Development)
 |Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
 |![image](https://skillicons.dev/icons?i=laravel)|   Laravel Framework 10.x       | [ดาวน์โหลด](https://mega.nz/folder/bPYEGZiR) |
