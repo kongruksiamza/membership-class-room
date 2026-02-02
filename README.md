@@ -58,31 +58,31 @@
 ## 💻 เขียนโปรแกรม (Programming)
 |Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://skillicons.dev/icons?i=c&theme=light)|   เขียนโปรแกรมภาษา C       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
-|![image](https://skillicons.dev/icons?i=qt&theme=light)|   PyQt6 (Python GUI Framework)       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
-|![image](https://skillicons.dev/icons?i=java&theme=light)|   Java GUI (Swing)       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
+|![image](https://skillicons.dev/icons?i=c&theme=light)|   [เขียนโปรแกรมภาษา C](https://www.youtube.com/playlist?list=PLEE74DyIkwEntgbgSAWUQAamr-H79Lkun) | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
+|![image](https://skillicons.dev/icons?i=qt&theme=light)|  [PyQt6 (Python GUI Framework)](https://www.youtube.com/playlist?list=PLEE74DyIkwEkKTJXKxQ5A1DvBuYI7xIxj)       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
+|![image](https://skillicons.dev/icons?i=java&theme=light)|   [Java GUI (Swing)](https://www.youtube.com/playlist?list=PLEE74DyIkwEm80QQApwRGYV-koT-b9P82)      | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
 
 ## 🎓 พัฒนาเว็บแอพพลิเคชั่น (Web Development)
 |Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://skillicons.dev/icons?i=laravel&theme=light)|   Laravel Framework 10.x       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
-|![image](https://skillicons.dev/icons?i=spring&theme=light)|   Spring Boot เบื้องต้น       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
-|![image](https://skillicons.dev/icons?i=spring&theme=light)|   Spring Boot & REST API       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
+|![image](https://skillicons.dev/icons?i=laravel&theme=light)|   [Laravel Framework 10.x](https://www.youtube.com/playlist?list=PLEE74DyIkwEm2h01ti8njIG5fHfkTfFTA)       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
+|![image](https://skillicons.dev/icons?i=spring&theme=light)|   [Spring Boot เบื้องต้น](https://www.youtube.com/playlist?list=PLEE74DyIkwEnCNgh5brqT9Nz-f1yCHFds)       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
+|![image](https://skillicons.dev/icons?i=spring&theme=light)|   [Spring Boot & REST API](https://www.youtube.com/playlist?list=PLEE74DyIkwElujxL904zKeyIX9jrUcr2Q)       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
 
 
 ## 🎮 เรียนรู้การพัฒนาเกม (Game Development)
 |Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://skillicons.dev/icons?i=js&theme=light)|   สร้างเกม 2 มิติด้วย JavaScript       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
-|![image](https://skillicons.dev/icons?i=godot&theme=light)|   Godot Engine 4 เบื้องต้น       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
-|![image](https://skillicons.dev/icons?i=unity&theme=light)|   สร้างเกมแบบไม่เขียนโค้ดด้วย Unity (Visual Scripting)       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
+|![image](https://skillicons.dev/icons?i=js&theme=light)|   [สร้างเกม 2 มิติด้วย JavaScript](https://www.youtube.com/playlist?list=PLEE74DyIkwElqTkOY5kQWS0jJksuteC6O)       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
+|![image](https://skillicons.dev/icons?i=godot&theme=light)|   [Godot Engine 4 เบื้องต้น](https://www.youtube.com/playlist?list=PLEE74DyIkwElcV7C2by5JomU2QXlr_XqP)       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
+|![image](https://skillicons.dev/icons?i=unity&theme=light)|   [สร้างเกมแบบไม่เขียนโค้ดด้วย Unity (Visual Scripting)](https://www.youtube.com/playlist?list=PLEE74DyIkwEm8Zy5LX3QZYEyoQANkvgCg)       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
 
 ## 📱 พัฒนา Mobile Application (Android / iOS)
 |Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://skillicons.dev/icons?i=dart&theme=light)|   เขียนโปรแกรมภาษา Dart 3.x       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
-|![image](https://skillicons.dev/icons?i=flutter&theme=light)|   พัฒนาแอพด้วย Flutter 3.x       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
-|![image](https://skillicons.dev/icons?i=react&theme=light)|   พัฒนาแอพด้วย React Native       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
+|![image](https://skillicons.dev/icons?i=dart&theme=light)|   [เขียนโปรแกรมภาษา Dart 3.x](https://www.youtube.com/playlist?list=PLEE74DyIkwEn0Y4rZN5tmrpRJGXTxC11v)       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
+|![image](https://skillicons.dev/icons?i=flutter&theme=light)|   [พัฒนาแอพด้วย Flutter 3.x](https://www.youtube.com/playlist?list=PLEE74DyIkwEnR3qX2kfL6exYPp_qmVXOG)       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
+|![image](https://skillicons.dev/icons?i=react&theme=light)|   [พัฒนาแอพด้วย React Native](https://www.youtube.com/playlist?list=PLEE74DyIkwEkLHIWcohFc-RvtxzEDcejP)       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
 
   
 ## 🎁 ข้อมูลสิทธิพิเศษเพิ่มเติมสำหรับสมาชิกช่อง Youtube
