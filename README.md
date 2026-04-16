@@ -65,7 +65,7 @@
 ## 🎓 พัฒนาเว็บแอพพลิเคชั่น (Web Development)
 |Course| หัวข้อ | ดาวน์โหลด |
 |:----:|:------------------------:|:----:|
-|![image](https://skillicons.dev/icons?i=html&theme=light)|   [พัฒนาเว็บไซต์ในยุค AI](https://www.youtube.com/playlist?list=PLEE74DyIkwEmc6g--tJnHYWFGpkbASqPC)       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
+|![image](https://github.com/kongruksiamza/membership-class-room/blob/6a4f9cee7e21f3c03ae07404cab3b9dba1ad35de/pic-up.png)|   [พัฒนาเว็บไซต์ในยุค AI](https://www.youtube.com/playlist?list=PLEE74DyIkwEmc6g--tJnHYWFGpkbASqPC)       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
 |![image](https://skillicons.dev/icons?i=laravel&theme=light)|   [Laravel Framework 10.x](https://www.youtube.com/playlist?list=PLEE74DyIkwEm2h01ti8njIG5fHfkTfFTA)       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
 |![image](https://skillicons.dev/icons?i=spring&theme=light)|   [Spring Boot เบื้องต้น](https://www.youtube.com/playlist?list=PLEE74DyIkwEnCNgh5brqT9Nz-f1yCHFds)       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
 |![image](https://skillicons.dev/icons?i=spring&theme=light)|   [Spring Boot & REST API](https://www.youtube.com/playlist?list=PLEE74DyIkwElujxL904zKeyIX9jrUcr2Q)       | [ดาวน์โหลด](https://mega.nz/folder/jLxW0aSJ) |
